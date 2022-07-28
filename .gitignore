@@ -1,0 +1,7 @@
+node_modules
+allure-report
+allure-results
+babel.config.js
+package-lock.json
+package.json
+workspaceTest.code-workspace
